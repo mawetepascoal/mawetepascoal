@@ -1,6 +1,6 @@
 <div align="left">
 
-*Mawete Pascoal
+# Mawete Pascoal
 
 **Engenharia de Dados & Inteligência Artificial**
 
