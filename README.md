@@ -1,5 +1,7 @@
 <div align="left">
 
+*Mawete Pascoal
+
 **Engenharia de Dados & Inteligência Artificial**
 
 </div>
@@ -12,7 +14,7 @@ Estudante de Engenharia de Software na 42 Luanda, focado em bases de dados, aná
 - Engenharia de Bases de Dados & Administração (PostgreSQL, MySQL, Redis)
 - Análise & Ciência de Dados
 - Inteligência Artificial (PyTorch, LLMs)
-- Desenvolvimento Backend (NestJS, Prisma, TypeScript) — habilidade complementar
+- Desenvolvimento Backend (NestJS, Prisma, TypeScript)
 
 **Stack**
 C · C++ · Python · TypeScript · NestJS · Prisma · PostgreSQL · MySQL · Redis · React · PyTorch · Docker · Linux
